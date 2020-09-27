@@ -1,0 +1,10 @@
+https://www.interviewbit.com/problems/binary-representation/
+
+Video:
+https://www.youtube.com/watch?v=4vNlt_EDw1Q
+
+Given a number N >= 0, find its representation in binary.
+
+Example:
+if N = 6,
+binary form = 110
