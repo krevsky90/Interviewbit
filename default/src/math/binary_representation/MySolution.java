@@ -1,4 +1,4 @@
-package math.factorization.binary_representation;
+package math.binary_representation;
 
 public class MySolution {
     public String findDigitsInBinary(int A) {
