@@ -1,4 +1,4 @@
-package math.anti_diagonals.java.lightweight;
+package arrays.anti_diagonals.java.lightweight;
 
 import java.util.ArrayList;
 

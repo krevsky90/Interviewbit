@@ -1,4 +1,4 @@
-package math.anti_diagonals;
+package arrays.anti_diagonals;
 
 import java.util.ArrayList;
 
