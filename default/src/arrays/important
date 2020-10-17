@@ -1,2 +1,6 @@
 1. \Interviewbit\default\src\arrays\max_sum_contiguous_subarray\description.txt
     Kadane's algorithm
+
+2. Let's Sum - sum of first Nth integer numbers (with + or - sign), A - integer number.
+If (abs(sum - A)) is even (четная) then there is always way (integer numbers with + or - sign) that equals this difference!
+(see problem src\arrays\step_by_step)
