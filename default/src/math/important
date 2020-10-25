@@ -1,0 +1,16 @@
+1.1) To find N-th Fibonaccy's number using matrix multiplying:
+    http://e-maxx.ru/algo/print_fibonacci_numbers
+1.2) fast power(A, b): https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/
+
+2) step_by_step:
+   Keep adding sum = 1 + 2 + .. + n >= target.
+   Difference = sum - target
+   NOTE:
+       Case 1 : Difference is even then answer is n, (because there will always a move flipping which will lead to target).
+       Case 2 : Difference is odd, then take one more step, i.e add n+1 to sum and now again take the difference.
+                If difference is even the n+1 is the answer else take one more move and this will certainly make the difference even
+                    then answer will be n + 2.
+
+   Explanation : Since difference is odd. Target is either odd or even.
+   case 1 : n is even (1 + 2 + 3 + … + n), then adding n + 1 makes the difference even.
+   case 2 : n is odd then adding n + 1 doesn’t makes difference even so take one more move, i.e., n+2.
