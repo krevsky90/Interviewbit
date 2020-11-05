@@ -1,2 +1,5 @@
+https://www.interviewbit.com/problems/count-element-occurence/
+    get first and last occurrence in array
+
 https://www.interviewbit.com/problems/implement-power-function/
     using Binary Exponentiation and modular arithmetic properties
