@@ -1,14 +1,6 @@
 package linked_lists.reverse_linked_list.java.editorial;
 
-class ListNode {
-    public int val;
-    public ListNode next;
-
-    ListNode(int x) {
-        val = x;
-        next = null;
-    }
-}
+import linked_lists.ListNode;
 
 public class Solution {
     public ListNode reverseList(ListNode A) {

@@ -1,23 +1,6 @@
 package linked_lists.reverse_linked_list;
 
-/**
- * Definition for singly-linked list.
- * class ListNode {
- * public int val;
- * public ListNode next;
- * ListNode(int x) { val = x; next = null; }
- * }
- */
-
-class ListNode {
-    public int val;
-    public ListNode next;
-
-    ListNode(int x) {
-        val = x;
-        next = null;
-    }
-}
+import linked_lists.ListNode;
 
 public class MySolution {
     public ListNode reverseList(ListNode A) {
